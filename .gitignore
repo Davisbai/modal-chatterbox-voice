@@ -1,0 +1,6 @@
+*.wav
+*.mp3
+.env
+.env.*
+__pycache__/
+.pytest_cache/
